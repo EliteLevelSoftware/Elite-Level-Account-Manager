@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/s0WE2OY" width="120" />
+<img src="(https://imgur.com/a/s0WE2OY)" width="120" />
 
 # Elite Multi-Client
 ### by Elite Level Software
