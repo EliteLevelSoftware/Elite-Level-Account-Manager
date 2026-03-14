@@ -9,9 +9,10 @@
 **Launch and manage multiple Roblox accounts simultaneously.**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-red?style=flat-square&color=701F27)
+[![Electron](https://img.shields.io/badge/Built%20With-Electron-47848F?style=flat-square&logo=electron)](https://www.electronjs.org/)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-UNLICENSED-gold?style=flat-square&color=D4AF37)
-
+[![Downloads](https://img.shields.io/github/downloads/EliteLevelSoftware/Elite-Level-Account-Manager/total?style=flat-square&color=gold&label=Downloads)](https://github.com/EliteLevelSoftware/Elite-Level-Account-Manager/releases)
 </div>
 
 ---
