@@ -2,7 +2,8 @@
 
 <img src="https://i.imgur.com/cZJZNQd.png" width="120" />
 
-# Elite Multi-Client
+# Elite-Level-Account-Manager
+
 ### by Elite Level Software
 
 **Launch and manage multiple Roblox accounts simultaneously.**
