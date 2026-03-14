@@ -39,7 +39,7 @@
 
 ## Installation
 
-1. Download `Elite Multi-Client Setup 1.0.0.exe` from the [Releases](../../releases) page
+1. Download `Elite Level Account Manager 1.0.0.exe` from the [Releases](../../releases) page
 2. Run the installer
 3. Launch **Elite Multi-Client** from your desktop or Start Menu
 
