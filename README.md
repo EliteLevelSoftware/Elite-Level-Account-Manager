@@ -41,7 +41,7 @@
 
 1. Download `Elite Level Account Manager 1.0.0.exe` from the [Releases](../../releases) page
 2. Run the installer
-3. Launch **Elite Multi-Client** from your desktop or Start Menu
+3. Launch **Elite Level Account Manager** from your desktop or Start Menu
 
 ---
 
@@ -72,7 +72,7 @@ If Roblox is already running when you open the app, a warning banner will appear
 
 All account data is stored locally on your machine at:
 ```
-%APPDATA%\elite-multi-client\elite-multi-client\
+%APPDATA%\Elite-Level-Account-Manager\Elite-Level-Account-Manager\
 ```
 Nothing is transmitted externally. No account info is bundled into the installer.
 
