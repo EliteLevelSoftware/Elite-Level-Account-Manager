@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/cZJZNQd.png" width="120" />
 
-# Elite-Level-Account-Manager
+# Elite Level Account Manager
 
 ### by Elite Level Software
 
