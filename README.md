@@ -67,19 +67,6 @@ If Roblox is already running when you open the app, a warning banner will appear
 
 ---
 
-## Building from Source
-
-```bash
-git clone https://github.com/EliteLevelSoftware/elite-multi-client
-cd elite-multi-client
-npm install
-npx electron-builder --win --x64
-```
-
-Or just run `Compile.bat`.
-
----
-
 ## Data & Privacy
 
 All account data is stored locally on your machine at:
