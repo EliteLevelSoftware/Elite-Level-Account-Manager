@@ -79,8 +79,6 @@ Nothing is transmitted externally. No account info is bundled into the installer
 
 ---
 
-<div align="center">
-
 ## License
 
 © 2025 Elite Level Software. All rights reserved.
