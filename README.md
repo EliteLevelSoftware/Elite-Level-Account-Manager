@@ -11,7 +11,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-red?style=flat-square&color=701F27)
 [![Electron](https://img.shields.io/badge/Built%20With-Electron-47848F?style=flat-square&logo=electron)](https://www.electronjs.org/)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-UNLICENSED-gold?style=flat-square&color=D4AF37)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](https://github.com/EliteLevelSoftware/Elite-Level-Account-Manager)
 [![Downloads](https://img.shields.io/github/downloads/EliteLevelSoftware/Elite-Level-Account-Manager/total?style=flat-square&color=gold&label=Downloads)](https://github.com/EliteLevelSoftware/Elite-Level-Account-Manager/releases)
 </div>
 
@@ -81,8 +81,15 @@ Nothing is transmitted externally. No account info is bundled into the installer
 
 <div align="center">
 
-Made with ❤️ by **Elite Level Software**
+## License
 
-[Discord](https://discord.gg/elitelevelsoftware) • [GitHub](https://github.com/EliteLevelSoftware)
+© 2025 Elite Level Software. All rights reserved.
 
+This software is proprietary. Redistribution or modification without written permission from Elite Level Software is prohibited.
+
+---
+
+<div align="center">
+  Made with ❤️ by <strong>Elite Level Software</strong>
 </div>
+
