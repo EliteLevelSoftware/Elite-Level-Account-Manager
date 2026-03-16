@@ -12,7 +12,7 @@
 [![Electron](https://img.shields.io/badge/Built%20With-Electron-47848F?style=flat-square&logo=electron)](https://www.electronjs.org/)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](https://github.com/EliteLevelSoftware/Elite-Level-Account-Manager)
-[![Downloads](https://img.shields.io/github/downloads/EliteLevelSoftware/Elite-Level-Account-Manager/total?style=flat-square&color=gold&label=Downloads)](https://github.com/EliteLevelSoftware/Elite-Level-Account-Manager/releases)
+![Downloads](https://img.shields.io/github/downloads/EliteLevelSoftware/Elite-Level-Account-Manager/total?style=flat-square&color=701F27&label=downloads)
 </div>
 
 ---
