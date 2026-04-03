@@ -22,7 +22,7 @@
 - **Multi-Account Management** — Add accounts via browser login or cookie import. Supports groups and aliases.
 - **Per-Account Game Selection** — Each account remembers its own game dropdown independently.
 - **Launch Presets** — Save and reuse multi-client launch configurations instantly.
-- **Saved Games Library** — Bookmark your favourite games for quick access.
+- **Saved Games Library** — Bookmark your favorite games for quick access.
 - **Roblox Charts Dashboard** — Browse top trending games directly inside the app.
 - **Window Layout Editor** — Arrange Roblox windows across monitors with drag-and-drop cells and merging.
 - **Active Clients Monitor** — Live view of running instances with per-client close controls.
